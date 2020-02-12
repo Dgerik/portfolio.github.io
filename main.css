@@ -495,7 +495,7 @@ user-select: none;
     }
 
     body{
-        background: url(/images/sitebg2-min.jpg) no-repeat center fixed;
+        background: url(images/sitebg2-min.jpg) no-repeat center fixed;
         background-size: cover;
     }
 
